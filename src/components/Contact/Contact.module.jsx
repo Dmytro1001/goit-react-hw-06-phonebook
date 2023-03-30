@@ -5,7 +5,7 @@ export const List = styled.ul`
   flex-direction: column;
   gap: 10px;
   padding: 10px;
-  width: 500px;
+  width: 380px;
 `;
 
 export const Item = styled.li`

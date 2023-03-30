@@ -15,7 +15,7 @@ export const Form = styled(FormicForm)`
   display: flex;
   flex-direction: column;
   gap: 10px;
-  width: 200px;
+  width: 400px;
   padding: 10px;
   border: 1px solid black;
   border-radius: 10px;
